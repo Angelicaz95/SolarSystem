@@ -7,5 +7,10 @@ public class Main {
         milkyWay.moon = 2;
         milkyWay.planets = 3;
 
+        Sun solana = new Sun();
+        solana.heat = "456789";
+        solana.radius = "4567890";
+        solana.temp = 567890;
+
     }
 }
