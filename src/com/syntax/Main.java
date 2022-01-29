@@ -12,5 +12,12 @@ public class Main {
         solana.radius = "4567890";
         solana.temp = "567890";
 
+
+        // adding planet1
+        Planet1  planet1= new Planet1();
+        planet1.color = "green";
+        planet1.size = "34567";
+
+
     }
 }
