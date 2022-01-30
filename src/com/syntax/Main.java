@@ -17,10 +17,18 @@ public class Main {
         planet2.size="45678";
 
 
+        // adding moon1 features
+        Moon1 moon1 = new Moon1();
+        moon1.color = "blue";
+        moon1.radius = "34567";
+        moon1.lightIntensity = "234567";
+
+
         // adding planet1
         Planet1  planet1= new Planet1();
         planet1.color = "green";
         planet1.size = "34567";
+
 
 
     }
