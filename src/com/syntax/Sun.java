@@ -2,6 +2,12 @@ package com.syntax;
 
 public class Sun {
     String heat;
-    String temp;
+    int temp;
     String radius;
+    String light;
+    String color;
+
+
+
+
 }

@@ -10,7 +10,8 @@ public class Main {
         Sun solana = new Sun();
         solana.heat = "456789";
         solana.radius = "4567890";
-        solana.temp = "567890";
+        solana.temp = 45678;
+
         // addding planet2
         Planet2 planet2 = new Planet2();
         planet2.color="pink";
